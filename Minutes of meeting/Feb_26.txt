@@ -29,6 +29,7 @@ Points Discussed:
                git commit -m “message”
                git push
                git log
+               git reset <commit_id>
 Task for associates:
 1.       Learn and complete HTML and CSS playlist.
 2.       Install Git on your system.
