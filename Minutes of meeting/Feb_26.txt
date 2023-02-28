@@ -1,0 +1,36 @@
+Minutes Of Meeting
+Date: 26th February 2023 (Sunday)
+Time: 11:00 pm – 12:30 am
+Duration: 1Hr 30 Mins
+Venue: Google Meet
+Type: Online
+ 
+Agenda:
+Git and GitHub fundamentals
+
+Members Present:
+Secretaries (01): Somyajeet Chowdhury
+ 
+Members Absent:
+Associates (02): N Aneesh Raghav, Ishita Luharuka
+ 
+Points Discussed:
+1.       Introduction and installation of Git
+2.       Creating local Git repository
+3.       Adding new file to the repository
+4.       Cloning repository from GitHub
+5.       To paste file name or link: Shift+ insert
+6.       Discussion of basic Git commands:
+               cd <foldername>
+               git clone <repo_name>
+               git init
+               git status
+               git add <filename> / git add .
+               git commit -m “message”
+               git push
+               git log
+Task for associates:
+1.       Learn and complete HTML and CSS playlist.
+2.       Install Git on your system.
+3.       Upload HTML, CSS and any other project files to GitHub.
+YT Tutorial for Git & GitHub:  https://youtu.be/gwWKnnCMQ5c
