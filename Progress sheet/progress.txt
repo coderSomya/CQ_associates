@@ -1,3 +1,4 @@
 Name  Html_playlist CSS_playlist
 
 eg. Somyajeet  20%  50%
+    Rashi      80%  40%
