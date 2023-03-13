@@ -1,9 +1,9 @@
 Name           Html_playlist     CSS_playlist
 Rashi Agrawal      90%	        90%
 Olivia Pal         80%	        30%
-Shreya Shill       100%         50%
+Shreya Shill       100%         40%
 Sujay vivek        100%         100%
-Ahwaban Mukherjee  85%          70%
+Ahwaban Mukherjee  85%          80%
 Yash Gupta         95%          80%
 Aneesh Raghav      50%          30%
 Utkarsh            100%         50%
