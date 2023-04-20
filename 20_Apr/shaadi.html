@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+#main{
+  background-color: red;
+  height: 100vh;
+ margin: 10px;
+ display: flex;
+ justify-content: center;
+}
+.btn{
+    height: 20px;
+    margin: 10px;
+}
+</style>
+<body>
+    <center>Would you be mine?❤️</center>
+    <div id="main">
+        <button class="btn" id="yes">YES</button>
+        <button class="btn" id="no">NO</button>
+    </div>
+</body>
+
+<script>
+    var yes= document.getElementById("yes");
+    var no= document.getElementById("no");
+
+    yes.addEventListener("click", (e)=>{
+         console.log(e);
+         alert("Congratulations! you won a date with me.")
+    })
+    no.addEventListener("click", ()=>{
+         alert("Congratulations! you won a date with me.")
+    })
+
+    no.addEventListener("mouseover", ()=>{
+      no.innerHTML= "YES";
+    })
+
+    no.addEventListener("mouseleave", ()=>{
+      no.innerHTML= "NO";
+    })
+
+
+</script>
+</html>
