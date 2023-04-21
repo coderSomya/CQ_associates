@@ -1,0 +1,58 @@
+Minutes of Meeting
+Date:20th April 2023(Thursday)
+Time:10:00pm to 12:00pm
+Duration: 2 hours
+Venue: Vikramshila V2
+Type:Offline
+
+Agenda:
+Document Object Model(DOM) Manipulation.
+
+Members present:
+Secretaries (01): Somyajeet Chowdhury
+
+Members Absent:
+Associates (05):Ananya Sikdar, Abhirup Giri, Meera Nair, Rishika Maheshwari, Uday Arnav Thakur.
+
+Points Discussed:
+
+1. Learnt fundamentals of Document Object Model(DOM) manipulation and Javascript.
+2. Learnt types of variables used in Javascript- var, val, let and const.
+3. Learnt about how elements in html can be treated as objects which have special properties.
+4. How to use      -document.getElementById(“ ”); 
+		   -document.getElementsByName(“ ”);
+		   -document.getElementsByTagName(“ ”);
+	
+	Some operations on such variables
+		x.innerHTML(“text”);
+		x.style.<property that we want to use>
+		console.log();
+		alert(“ ”);
+		
+5.Learnt about functions in javascript and how to call them.
+	eg:- document.addEventListener("click", myFunction);
+
+
+6. Used Mdn web docs.
+
+	getElementbyId- https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+
+7.Discussed about Event Paramenter(e) which is passed while calling functions.
+8.Significance of using "===" in conditional statements.
+
+ 	
+
+
+Tasks:
+1. Revise and go through everything that was taught.
+2. Read about ECMASCRIPT on MDN web docs.
+
+
+
+---Sujay Vivek
+
+
+
+
+
+
