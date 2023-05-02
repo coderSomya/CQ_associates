@@ -1,0 +1,45 @@
+Minutes of Meeting
+Date: 5th May 2023(Tuesday)
+Time: 10:30pm to 12:45am
+Duration: 2 hours 15 minutes
+Type: Online, Google Meet
+
+Agenda:
+Data Handling and Functions
+
+Members present:
+Secretaries (01): Somyajeet Chowdhury
+
+Members Absent:
+Associates (05): G Abhinav Reddy, Gaurav Jindal, Aneesh Raghav, Olivia Pal, Shreya Shill
+
+Points Discussed:
+
+1. Discussion about “scopes” through an example explaining how local variable value overwrites the initially declared value.
+2.	Prints “undefined” if a variable that is not declared is used in console.log.
+3.	If a function does not find a particular variable within its scope, it searches for it one step outside.
+4.	While reading the code for the first time, the compiler assigns scope of global to functions or variables.
+5.	When a function is called, it goes inside and gives the variable within it the scope of that function.
+6.	Discussion about “type conversion” and implicit and explicit type conversions.
+7.	Discussion about different data types: string, number, undefined, NaN, boolean 
+8.	Discussion about concatenation between number and string.
+9.	NaN: Not a Number, when the compiler cannot come to a particular type.
+10.	=== means strict inequality. It not only checks value, but also type.
+11.	== will give true even if 1==”1” is compared.
+12.	Empty string gets converted into false, rest any string gets converted into true.
+13.	0==-0 gives true value, while 1==-1 gives false.
+14.	Discussion about significance of -0.
+15.	Recap of Event Listeners and discussion on further concepts.
+16.	Introduction to Data handling.
+17.	Discussion about data handling in arrays, example: push, pop, shift, unshift, etc.
+18.	Discussion about how to access object and its properties.
+19.	Discussion about map and filter function.
+
+
+Tasks:
+1. Revise and go through everything that was taught.
+2. Read documentations of topics that were taught.
+
+
+
+---Sujay Vivek
