@@ -1,5 +1,5 @@
 Minutes of Meeting
-Date: 5th May 2023(Tuesday)
+Date: 2nd May 2023(Tuesday)
 Time: 10:30pm to 12:45am
 Duration: 2 hours 15 minutes
 Type: Online, Google Meet
