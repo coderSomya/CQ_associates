@@ -41,5 +41,4 @@ Tasks:
 2. Read documentations of topics that were taught.
 
 
-
----Sujay Vivek
+Rishika Maheswari
