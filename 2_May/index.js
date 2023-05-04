@@ -6,10 +6,10 @@ var dummy=["manan", "rishika", "sanchit", "anupam"];
 
 
 // btn.addEventListener("click", function(){
-//     // var x= document.createElement("div");
-//     // x.innerText="helllo hfsdnkaJ";
-//     // var main=document.getElementById("main");
-//     // main.append(x);
+//      var x= document.createElement("div");
+//      x.innerText="helllo hfsdnkaJ";
+//      var main=document.getElementById("main");
+//      main.append(x);
 
 //     for(let i=0; i<dummy.length; i++){ 
 //         //i = 0.1.2.3
@@ -53,6 +53,9 @@ var data = [
 btn.addEventListener("click", function(){
 
     for(let i=0; i<data.length; i++){
+    
+        //ensuring case insensitivity
+
       var str=data[i].dep;
     var str2=str.toLowerCase();
       console.log(str2);

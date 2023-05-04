@@ -24,8 +24,8 @@ Points Discussed:
 7.	Discussion about different data types: string, number, undefined, NaN, boolean 
 8.	Discussion about concatenation between number and string.
 9.	NaN: Not a Number, when the compiler cannot come to a particular type.
-10.	=== means strict inequality. It not only checks value, but also type.
-11.	== will give true even if 1==”1” is compared.
+10.	=== means strict equality. It not only compares values, but also types.
+11.	== will give true even if 1="1" is compared.
 12.	Empty string gets converted into false, rest any string gets converted into true.
 13.	0==-0 gives true value, while 1==-1 gives false.
 14.	Discussion about significance of -0.

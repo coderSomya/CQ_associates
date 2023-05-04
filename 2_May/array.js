@@ -3,15 +3,17 @@ var arr= [1,2,3,4,5,6];
 //assume this to be incoming data
 // console.log(arr);
 
-// //push-> adds an element to the arr
+//array methods=
+
+//push-> adds an element to the arr
 // arr.push(10);
 
 // console.log(arr);
 
-// arr.pop();
+// arr.pop()-> removes the last element 
 // console.log(arr);
 
-// //shift -> form the front
+// shift -> from the front
 // arr.unshift(12);
 // console.log(arr);
 

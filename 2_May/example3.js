@@ -8,24 +8,25 @@ explicit type conversion-> we actually intend to convert the type
 // console.log(1+"1");//type conversion
 
 // console.log(typeof(1+"1"));
-// console.log(1-"hesbhdk");//type conversion
+// console.log(1-"something");//type conversion
 // console.log(5*"6");//type conversion
 
 //NaN-> not a number
 
 if(""){//empty string == false
-    console.log("yes");
+    console.log("empty string");
 }
 
-if("bsdh"){ //rest strings = true
-    console.log("yyyes");
+if("random string"){ //rest strings = true
+    console.log("any other string");
 }
 
-//among strigns only, ""-> falsy value
+//among strings, only ""-> falsy value
 /*
 number- 1,2,90.9, 16
-string- "hafdsak", "g"
+string- "web dev", "g"
 undefined
+null
 NaN
 Boolean
 */
