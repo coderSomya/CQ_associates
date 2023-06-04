@@ -1,4 +1,17 @@
-create a landing page of introduction to GMUN committees..
+Task : Create a landing page of introduction to GMUN committees..
+
+your page must include:
+1) A header reading "Introduction to committees"
+2) A body tag having a swiper 
+3) a footer linking social media handles
+
+your project must inlcude swiper.js library
+the color code should be consistent 
+you can customize other things accordingly
+
+Deadline : 11th June
+
+
 
 
 
