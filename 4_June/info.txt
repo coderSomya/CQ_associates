@@ -1,0 +1,6 @@
+to get any 3rd party lib/package/module
+
+CDN - CONTENT DELIVERY NETWORK
+
+NPM- NODE PACKAGE MANAGER
+
